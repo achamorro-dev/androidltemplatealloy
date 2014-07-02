@@ -14,7 +14,7 @@
 	backgroundColor: 'transparent',
 	backgroundImage: '/images/hamburger.png',
 	left: '16dp',
-	height: '12dp',
+	height: '13dp',
 	width: '20dp'
 },
 ".actionbar-title": {
