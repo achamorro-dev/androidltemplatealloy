@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="main-window">
+		<View class="actionbar">
+			<Button id="menu_icon" class="actionbar-main-icon"></Button>
+			<Label class="actionbar-title">Application</Label>
+		</View>
+	</Window>
+</Alloy>

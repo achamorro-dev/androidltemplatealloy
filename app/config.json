@@ -1,0 +1,19 @@
+{
+	"global": {
+		"main_color":"#3f51b5",
+		"dark_main_color":"#303f9f",
+		"light_main_color":"#5c6bc0",
+		"fallback_color":"#c5cae9",
+		"window_background_color":"#ffffff",
+		"title_font": "Roboto/Roboto-Medium",
+		"title_size": "20sp"
+	}, 
+	"env:development": {}, 
+	"env:test": {}, 
+	"env:production": {}, 
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {}
+}

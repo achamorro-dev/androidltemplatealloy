@@ -1,0 +1,28 @@
+".main-window": {
+	backgroundColor: Alloy.CFG.window_background_color,
+	exitOnClose: true,
+	navBarHidden: true	
+},
+".actionbar": {
+	backgroundColor: Alloy.CFG.main_color,
+	height: '56dp',
+	left: 0,
+	top: 0,
+	width: Ti.UI.FIT
+},
+".actionbar-main-icon": {
+	backgroundColor: 'transparent',
+	backgroundImage: '/images/hamburger.png',
+	left: '16dp',
+	height: '12dp',
+	width: '20dp'
+},
+".actionbar-title": {
+	color: "#FFF",
+	font: {
+		fontFamily: Alloy.CFG.title_font,
+		fontSize: Alloy.CFG.title_size,
+		fontWeight: 'bold'
+	},
+	left: '72dp'	
+}
