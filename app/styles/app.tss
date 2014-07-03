@@ -25,4 +25,18 @@
 		fontWeight: 'bold'
 	},
 	left: '72dp'	
+},
+".floating-button": {
+	backgroundColor: Alloy.CFG.main_color,
+	borderRadius: '31dp',
+	bottom: '16dp',
+	height: '62dp',
+	right: '16dp',
+	width: '62dp'
+},
+".search-icon": {
+	backgroundColor: 'transparent',
+	backgroundImage: '/images/search.png',
+	height: '32dp',
+	width: '32dp'
 }

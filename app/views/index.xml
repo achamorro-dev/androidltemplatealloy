@@ -4,5 +4,8 @@
 			<Button id="menu_icon" class="actionbar-main-icon"></Button>
 			<Label class="actionbar-title">Application</Label>
 		</View>
+		<View class="floating-button" id="searchfbutton">
+			<Button class="search-icon"></Button>
+		</View>
 	</Window>
 </Alloy>
