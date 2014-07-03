@@ -1,12 +1,22 @@
 {
 	"global": {
-		"main_color":"#3f51b5",
-		"dark_main_color":"#303f9f",
-		"light_main_color":"#5c6bc0",
-		"fallback_color":"#c5cae9",
-		"window_background_color":"#ffffff",
+		"main_color": "#3f51b5",
+		"dark_main_color": "#303f9f",
+		"light_main_color": "#5c6bc0",
+		"fallback_color": "#c5cae9",
+		"window_background_color": "#ffffff",
+		"caption_font": "Roboto/Roboto-Regular",
+		"caption_size": "12sp",
+		"body1_font": "Roboto/Roboto-Regular",
+		"body1_size": "14sp",
+		"body2_font": "Roboto/Roboto-Medium",
+		"body2_size": "14sp",
+		"subhead_font": "Roboto/Roboto-Regular",
+		"subhead_size": "16sp",
 		"title_font": "Roboto/Roboto-Medium",
-		"title_size": "20sp"
+		"title_size": "20sp",
+		"display1_font": "Roboto/Roboto-Regular",
+		"display1_size": "34sp"
 	}, 
 	"env:development": {}, 
 	"env:test": {}, 
